@@ -11,7 +11,7 @@ const getData = async (url) => {
     try {
 
         let response = await axios.get(url);
-	       return response.data;
+	return response.data;
 
     } catch (error) {
 
