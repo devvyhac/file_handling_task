@@ -1,5 +1,5 @@
 {
-  "name": "zuri_ass",
+  "name": "zuri_nodejs_task",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Abdulqudus Ismail Alashe",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1"
